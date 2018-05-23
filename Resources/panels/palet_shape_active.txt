@@ -1,0 +1,11 @@
+x: 730
+y: 0 
+w: 151
+h: 643 
+// Region data 
+// Format: r: x, y, w, h, kind 
+a: panel1_shape_active1.png
+i: panel1_shape_active1.png
+b: panel1_shape_active1.png
+d: false
+v: false

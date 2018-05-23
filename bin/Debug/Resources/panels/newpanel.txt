@@ -1,0 +1,6 @@
+x: 0
+y: 0 
+w: 800
+h: 600 
+// Region data 
+// Format: r: x, y, w, h, kind 

@@ -1,0 +1,11 @@
+x: 0
+y: 0 
+w: 881
+h: 643 
+// Region data 
+// Format: r: x, y, w, h, kind
+a: panel1.png
+i: panel1.png
+b: panel1.png
+d: false
+v: false 
