@@ -1,8 +1,6 @@
-##Swinburne University of Techonology
-###Bachalor of Computer Scienece
-###Introdution to Programming(COS10009)
+# SimplePaintSoft
 
-Custom Project
-Simple Paint Soft
+Simple paint soft with [SwinGame](http://www.swingame.com/) framework, developed with Pascal.
+[This](https://www.youtube.com/watch?v=ARo-rnUH6Wk&feature=youtu.be) is the link to the YouTube video which explain the functionality and demo of this app.
 
-Demonstration Video : https://youtu.be/ARo-rnUH6Wk
+This game is developed as a Custom Project of Introduction to Programming. (Swinburne Universiy of Techonology COS10009)
